@@ -1,5 +1,5 @@
 //Intelligent Vehicles project
-//Obstacle avoiding part 
+//Obstacle avoiding part
 //By Ranran Cao
 #include "Auto_Move.h"
 char RX_buf[17];
